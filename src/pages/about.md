@@ -1,36 +1,52 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+# Hi, I'm Neeraj Singh
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I'm a passionate Cyber Security Enthusiast and Software Testing Specialist. As the author of Neerajlovecyber.com, I'm dedicated to sharing knowledge and experiences in the cybersecurity field.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## What I Do
 
-<div>
-  <img src="/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+I specialize in:
+- Cyber Security Analysis
+- Software Testing
+- CTF Challenges
+- Penetration Testing
+- Security Research
 
-## Tech Stack
+## My Journey
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I'm constantly developing my skills through hands-on experience with platforms like:
+- HackTheBox
+- TryHackMe
+- Various CTF competitions
 
-## Features
+## Professional Focus
 
-Here are certain features of this site.
+As a budding Cybersecurity Enthusiast, I focus on:
+- Identifying and analyzing security vulnerabilities
+- Implementing robust security solutions
+- Staying updated with the latest security trends
+- Contributing to the cybersecurity community
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+
+## Let's Connect
+
+I'm always eager to learn and develop myself. Whether you're interested in:
+- Collaboration opportunities
+- Security research
+- Professional networking
+- Knowledge sharing
+
+Feel free to reach out to me through:
+- WhatsApp: [+91 7988815263](https://wa.me/917988815263)
+- [LinkedIn Profile](https://www.linkedin.com/in/neerajlovecyber/)
+- [Blog](https://neerajlovecyber.com)
+
+## Download My CV
+
+Want to know more about my professional journey? [Download my CV](/cv.pdf)
+
